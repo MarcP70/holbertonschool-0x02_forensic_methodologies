@@ -1,0 +1,9 @@
+0-mystery.txt
+exiftool Y8CYJ34I9W2GTE9T.png | grep Author | awk '{print $3}'
+Sherlock_Holbies
+
+1-location.txt
+# exiftool 1-location.png | grep 'GPS Position'
+PS Position                    : 37 deg 46' 53.82" N, 122 deg 24' 29.84" W
+Dans google maps: 37°46'53.82"N,122°24'29.84"W
+Ayoub & Kubein Building, 972 Mission St, San Francisco, CA 94103, États-Unis
